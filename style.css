@@ -1,0 +1,28 @@
+body {
+  background-color: #ff05f7;
+  margin: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(255, 182, 227);
+  text-align: center;
+  font-size: 100px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+h2 {
+  color: rgb(255, 182, 227);
+  text-align: center;
+  font-size: 200%;
+  margin-bottom: 20px;
+  margin-top: 10px;
+} 
+p.stylecss {
+  color:rgb(201, 0, 171);
+  text-align: center;
+  font-size: 50px;
+  font-family: 'bold';
+  margin-bottom: 20px;
+}
+
